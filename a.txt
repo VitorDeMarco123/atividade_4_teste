@@ -1,1 +1,3 @@
 Aa -criacao do arquivo 001/01.
+
+edicao do arquivo 001/02.
